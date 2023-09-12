@@ -1,0 +1,10 @@
+node_modules/
+package-lock.json
+*.zip
+*.log
+*.logs
+.env
+.vscode/
+.idea/
+*error.log*
+*debug.log*
